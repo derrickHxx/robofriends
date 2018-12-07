@@ -1,15 +1,15 @@
 {
-  "main.css": "/robofriends/public/static/css/main.39870fe1.chunk.css",
-  "main.js": "/robofriends/public/static/js/main.9feda664.chunk.js",
-  "main.js.map": "/robofriends/public/static/js/main.9feda664.chunk.js.map",
-  "static/css/1.20bf67d6.chunk.css": "/robofriends/public/static/css/1.20bf67d6.chunk.css",
-  "static/js/1.3319ec2a.chunk.js": "/robofriends/public/static/js/1.3319ec2a.chunk.js",
-  "static/js/1.3319ec2a.chunk.js.map": "/robofriends/public/static/js/1.3319ec2a.chunk.js.map",
-  "runtime~main.js": "/robofriends/public/static/js/runtime~main.c5c51213.js",
-  "runtime~main.js.map": "/robofriends/public/static/js/runtime~main.c5c51213.js.map",
-  "static/css/1.20bf67d6.chunk.css.map": "/robofriends/public/static/css/1.20bf67d6.chunk.css.map",
-  "static/css/main.39870fe1.chunk.css.map": "/robofriends/public/static/css/main.39870fe1.chunk.css.map",
-  "index.html": "/robofriends/public/index.html",
-  "precache-manifest.672fb1d2eb3aa1f82fb931dc9c2d9271.js": "/robofriends/public/precache-manifest.672fb1d2eb3aa1f82fb931dc9c2d9271.js",
-  "service-worker.js": "/robofriends/public/service-worker.js"
+  "main.css": "/robofriends/static/css/main.39870fe1.chunk.css",
+  "main.js": "/robofriends/static/js/main.86400ad4.chunk.js",
+  "main.js.map": "/robofriends/static/js/main.86400ad4.chunk.js.map",
+  "static/css/1.20bf67d6.chunk.css": "/robofriends/static/css/1.20bf67d6.chunk.css",
+  "static/js/1.3319ec2a.chunk.js": "/robofriends/static/js/1.3319ec2a.chunk.js",
+  "static/js/1.3319ec2a.chunk.js.map": "/robofriends/static/js/1.3319ec2a.chunk.js.map",
+  "runtime~main.js": "/robofriends/static/js/runtime~main.1446d6ec.js",
+  "runtime~main.js.map": "/robofriends/static/js/runtime~main.1446d6ec.js.map",
+  "static/css/1.20bf67d6.chunk.css.map": "/robofriends/static/css/1.20bf67d6.chunk.css.map",
+  "static/css/main.39870fe1.chunk.css.map": "/robofriends/static/css/main.39870fe1.chunk.css.map",
+  "index.html": "/robofriends/index.html",
+  "precache-manifest.1aa9150e99044bb44062bd14ae490540.js": "/robofriends/precache-manifest.1aa9150e99044bb44062bd14ae490540.js",
+  "service-worker.js": "/robofriends/service-worker.js"
 }
